@@ -1,0 +1,27 @@
+{
+  "name": "expressapi",
+  "version": "1.0.0",
+  "description": "List of sources used: https://www.codementor.io/@wapjude/creating-a-simple-rest-api-with-expressjs-in-5min-bbtmk51mq https://www.npmjs.com/package/node-fetch",
+  "main": "app.js",
+  "dependencies": {
+    "body-parser": "^1.19.2",
+    "express": "^4.17.3",
+    "node-fetch": "^3.2.0",
+    "nodemon": "^2.0.15",
+    "request": "^2.88.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/assessMyCode/expressApi.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/assessMyCode/expressApi/issues"
+  },
+  "homepage": "https://github.com/assessMyCode/expressApi#readme"
+}
